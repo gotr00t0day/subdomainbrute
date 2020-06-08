@@ -2,6 +2,8 @@ import requests
 from fake_useragent import UserAgent
 from colorama import Fore, Back, Style
 
+# by c0deNinja
+
 host = "reddit.com"
 wordlist = "wordlist.txt"
 try:
