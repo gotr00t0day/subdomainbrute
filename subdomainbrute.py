@@ -4,8 +4,8 @@ from colorama import Fore, Back, Style
 
 # by c0deNinja
 
-host = "reddit.com"
-wordlist = "wordlist.txt"
+host = ""
+wordlist = ""
 try:
     with open(wordlist, 'r') as f:
         datalist = f.readlines()
