@@ -3,9 +3,9 @@ a subdomain brute forcer
 
 # Requirements
 
-sudo pip install -r requirements.txt
+sudo pip3 install -r requirements.txt
 
-# Use
+# Installation
 
 git clone https://github.com/gotr00t0day/subdomainbrute.git<br>
 cd subdomainbrute<br>
